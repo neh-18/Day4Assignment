@@ -1,0 +1,10 @@
+1. By using git--version command in gitbash
+2. By usingh git init command
+3. By using git config --global user.name "FIRST_NAME LAST_NAME"
+git config --global user.email "MY_NAME@example.com"
+4. By using git add
+5. git rm <file> --cached method
+6. git commit -m "first commit"
+7. git push -u remote-name branch-name
+8. git clone: used to get files for first time from Github repo to Local machine and can be used once.
+   git pull: used to get local changes or files from Github repo to local Git and can be used multiple times.
